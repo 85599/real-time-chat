@@ -1,0 +1,24 @@
+{
+  "name": "public",
+  "homepage": "https://github.com/85599/Thar_trading_terminal",
+  "authors": [
+    "khushal jain <khushaljain023@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "lib/plugins",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "~1.4.1",
+    "angular-resource": "~1.4.1",
+    "lightbox2": "~2.8.1",
+    "jQuery": "jquery#~2"
+  }
+}
